@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a img="">
+<img src="https://img.shields.io/badge/Feceboook-Wilker%20Junio-blue"/>
+</a>
+<a img="">
+<img src="https://img.shields.io/badge/Discord-Wilker%230292-black"/>
+</a>
+<a img="">
+<img src="https://img.shields.io/badge/WhatsApp-%2B55%2061%20995809899-green"/>
+</a>
