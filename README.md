@@ -14,19 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a img="">
-<img src="https://img.shields.io/badge/Feceboook-Wilker%20Junio-blue"/>
-</a>
-<a img="">
-<img src="https://img.shields.io/badge/Discord-Wilker%230292-black"/>
-</a>
-<a img="">
-<img src="https://img.shields.io/badge/WhatsApp-%2B55%2061%20995809899-green"/>
-</a>
 
-[![Facebook](https://img.shields.io/badge/Feceboook-Wilker%20Junio-blue))][(https://www.facebook.com/wilker.junio.1293/)
+![Facebook](https://img.shields.io/badge/Feceboook-Wilker%20Junio-blue)
 
-[![Discord](https://img.shields.io/badge/Discord-Wilker%230292-black)][(discord.com)
+![Discord](https://img.shields.io/badge/Discord-Wilker%230292-black)
 
-[![WhatzApp](https://img.shields.io/badge/WhatsApp-%2B55%2061%20995809899-green)][(https://wa.me/5561995809899)
+![WhatzApp](https://img.shields.io/badge/WhatsApp-%2B55%2061%20995809899-green)
 
+
+- Programming Languages
+
+-JavaScript
+
+- Studying
+
+- Java.
+- Python
+- Ruby 
+- C++
+- PHP
+<img  src="https://github-readme-stats.vercel.app/api?username=Moderno858&show_icons=true" />
