@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/WhatsApp-%2B55%2061%20995809899-green"/>
 </a>
 [![Facebook](https://img.shields.io/badge/Feceboook-Wilker%20Junio-blue))](https://www.facebook.com/wilker.junio.1293/)
+
 [![Discord](https://img.shields.io/badge/Discord-Wilker%230292-black)](discord.com)
+
 [![WhatzApp](https://img.shields.io/badge/WhatsApp-%2B55%2061%20995809899-green)](https://wa.me/5561995809899)
+
