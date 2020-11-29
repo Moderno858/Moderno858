@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img  src="https://images-ext-2.discordapp.net/external/wlAudzOrqQ09hTU5vSxs0_dAM58mX1ywNXFBpKEpO1g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/692024144589750372/31f4803d6ba0bb53951e986f5ca210b5.png" />
+
+- Contact 
 
 ![Facebook](https://img.shields.io/badge/Feceboook-Wilker%20Junio-blue)
 
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
 
 - Programming Languages
 
--JavaScript
+- JavaScript
 
 - Studying
 
@@ -34,6 +37,6 @@ Here are some ideas to get you started:
 - C++
 - PHP
 
-<img  src="https://images-ext-2.discordapp.net/external/wlAudzOrqQ09hTU5vSxs0_dAM58mX1ywNXFBpKEpO1g/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/692024144589750372/31f4803d6ba0bb53951e986f5ca210b5.png" />
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Moderno858&show_icons=true" />
