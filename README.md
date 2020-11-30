@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - Ruby 
 - C++
 - PHP
+- Shell
 
 
 
