@@ -42,4 +42,9 @@ Here are some ideas to get you started:
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Moderno858&show_icons=true" />
+body{
+    background: rgb(70,142,236);
+    font:normal 15pt Arial;
+
+}
 
