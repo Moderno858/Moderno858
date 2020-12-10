@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - Go
 - Css
 ## Frameworks
-- Criando
+- Criando // Em Shell script e PHP
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Moderno858&show_icons=true" />
 
