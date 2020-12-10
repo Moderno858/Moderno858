@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ### Programming Languages
 
 - JavaScript
+- Shell
 
 ### Studying
 
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 - Ruby 
 - C++
 - PHP
-- Shell
 
 
 
