@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 - Ruby 
 - C++
 - PHP
-
+- Node js
+- Go
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Moderno858&show_icons=true" />
