@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - PHP
 - Node js
 - Go
+- Css
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Moderno858&show_icons=true" />
